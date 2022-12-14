@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VinothKumarGanesan\\source\\repos\\DotNetPipeline\\DotNetPipeline\\DotNetPipeline.csproj",
+      "projectUniqueName": "D:\\DotNetPipeline\\DotNetPipeline\\DotNetPipeline.csproj",
       "projectName": "DotNetPipeline",
-      "projectPath": "C:\\Users\\VinothKumarGanesan\\source\\repos\\DotNetPipeline\\DotNetPipeline\\DotNetPipeline.csproj",
+      "projectPath": "D:\\DotNetPipeline\\DotNetPipeline\\DotNetPipeline.csproj",
       "packagesPath": "C:\\Users\\VinothKumarGanesan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VinothKumarGanesan\\source\\repos\\DotNetPipeline\\DotNetPipeline\\obj\\",
+      "outputPath": "D:\\DotNetPipeline\\DotNetPipeline\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
