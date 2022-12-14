@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kXahmW+oD/+x5kNv+d4nmt+1Dyb0ulQPTVFky7Ij2LM=",
+  "Source": "DotNetPipeline",
+  "BasePath": "_content/DotNetPipeline",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
