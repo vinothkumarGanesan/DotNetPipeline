@@ -7,6 +7,7 @@ namespace DotNetPipeline
         public int TemperatureC { get; set; }
 
         public int TemperatureF => 32 + (int)(TemperatureC / 0.5655);
+        public int number { get; set; }
 
         //summary about the weather
         //testing the ci/cd
