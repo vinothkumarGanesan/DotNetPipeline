@@ -1,0 +1,5 @@
+﻿<parameters>
+  <parameter name="IIS Web Application Name" value="Default Web Site" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\ProgramData\\Jenkins\\\.jenkins\\workspace\\DotNetPipeline\\DotNetPipeline\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

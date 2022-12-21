@@ -9,6 +9,7 @@ namespace DotNetPipeline
         public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 
         //summary about the weather
+        //testing the ci/cd
 
         public string? Summary { get; set; }
     }
