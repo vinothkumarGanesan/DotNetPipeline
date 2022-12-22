@@ -11,7 +11,7 @@ namespace DotNetPipeline
 
         //summary about the weather
         //testing the ci/cd
-
+        //seek for it
         public string? Summary { get; set; }
     }
 }
